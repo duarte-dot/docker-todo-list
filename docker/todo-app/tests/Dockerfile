@@ -4,9 +4,7 @@ WORKDIR /app
 
 ADD node_modules.tar.gz ./
 
-COPY package*.json ./
-
-RUN npm ci
+# RUN npm ci
 
 COPY ./ ./
 
