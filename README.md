@@ -14,6 +14,6 @@ Neste projeto, eu:
 O que foi necessário para concluir o projeto:
 <ul>
 <li>Fundamentos de virtualização e conteinerização;</li>
-<li>Saber como escrever um Dockerfile para definir a imagem do contêiner, configurar o ambiente e instalar as dependências necessárias.;</li>
-<li>Entender como a rede Docker funciona e como conectar contêineres em diferentes redes.;</li>
+<li>Saber como escrever um Dockerfile para definir a imagem do contêiner, configurar o ambiente e instalar as dependências necessárias;</li>
+<li>Entender como a rede Docker funciona e como conectar contêineres em diferentes redes;</li>
 </ul>
