@@ -1,19 +1,19 @@
 # Docker To-do List
 
 <ul>
-<li>Este projeto teve como objetivo meu aprendizado em Docker.</li>
+<li>This project aimed at my learning in Docker.</li>
 </ul>
 
-Neste projeto, eu:
+In this project, I:
 <ul>
-<li>Conteinerizei aplicações;</li>
-<li>Criei uma conexão entre elas;</li>
-<li>Orquestrei seu funcionamento;</li>
+<li>Containerized applications;</li>
+<li>Created a connection between them;</li>
+<li>Orchestrated their operation;</li>
 </ul>
 
-O que foi necessário para concluir o projeto:
+What was necessary to complete the project:
 <ul>
-<li>Fundamentos de virtualização e conteinerização;</li>
-<li>Saber como escrever um Dockerfile para definir a imagem do contêiner, configurar o ambiente e instalar as dependências necessárias;</li>
-<li>Entender como a rede Docker funciona e como conectar contêineres em diferentes redes;</li>
+<li>Fundamentals of virtualization and containerization;</li>
+<li>Knowing how to write a Dockerfile to define the container image, set up the environment, and install necessary dependencies;</li>
+<li>Understanding how Docker networking works and how to connect containers in different networks;</li>
 </ul>
